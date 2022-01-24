@@ -6,7 +6,7 @@
 ## 👧🏻 About Me
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **alaniscibele.123@gmail.com**
+- 📫 How to reach me **alanis.cibele123@gmail.com**
 <br/>
 
 ## 🚀 Languages and Tools:
