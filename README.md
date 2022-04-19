@@ -50,5 +50,4 @@
 </div>
  <br>
   
-  
   ![Snake animation](https://github.com/alaniscibele/alaniscibele/blob/output/github-contribution-grid-snake.svg)
